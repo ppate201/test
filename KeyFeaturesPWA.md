@@ -23,4 +23,8 @@ Can be done using this meta tag:
     initial-scale=1.0, maximum-scale=1.0,
     user-scalable=no" />
 
-### **Should Support Push Notifications**
+### **Should Support Push Notifications (Service Workers)**
+
+### **Supports HTTPS**
+
+### **Offline Capabilities**
